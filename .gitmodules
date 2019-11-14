@@ -1,0 +1,3 @@
+[submodule "scanly-models"]
+	path = scanly-models
+	url = https://bivtsjenko:MTkMaZ2O9181@github.com/bivtsjenko/scanly-models.git
